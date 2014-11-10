@@ -1,0 +1,4 @@
+Ascii-art
+=========
+
+Ruby exercise
